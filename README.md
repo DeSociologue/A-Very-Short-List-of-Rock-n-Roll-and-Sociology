@@ -1,8 +1,9 @@
 # A Very Short List of Rock Music & Sociology
 
-I plan to listen to rock live this weekend, so I collected some courses, papers, books and so on related to rock music and sociology to help me expand some knowledge before going there. Some of the material has gone beyond this category, but it still belongs to the sociological perspective of music studies.
+I plan to listen to rock live this weekend, so I collected some courses, papers, books and so on related to rock music and sociology to help me expand some knowledge before going there. Some of the material has gone beyond this category, but it still belongs to the sociological perspective of music studies. You can [download the documents](https://github.com/DeSociologue/A-Very-Short-List-of-Rock-Music-Sociology/tree/master/Files) mentioned below.
 
-Note: This is just my personal collection, not rigorous academic material.
+Note: This is just my personal collection, not rigorous academic material. 
+
 
 ## Course
 **Daniel You-Ren Yang**
