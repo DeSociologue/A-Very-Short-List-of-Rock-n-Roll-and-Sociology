@@ -21,7 +21,7 @@ _The document [backup](https://github.com/DeSociologue/A-Very-Short-List-of-Rock
 
 ## Course
 ### Daniel You-Ren Yang
-- Sociology of Rock ‘n’ Roll
+- **Sociology of Rock ‘n’ Roll**
 	- [2019 ver.](http://teacher.thu.edu.tw/102/teac2_desc/outline4/print_outline.php?setyear=108&setterm=1&curr_code=3193&ss_sysid=otr) 
 	- [2013 ver.](https://soc.thu.edu.tw/courses/u101-2.files/5053.pdf)
 
